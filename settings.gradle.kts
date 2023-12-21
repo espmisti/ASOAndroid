@@ -14,5 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ASOAndroid"
-include(":app")
 include(":asoanalytics")
